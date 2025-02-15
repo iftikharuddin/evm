@@ -1,0 +1,30 @@
+# EIP-2935
+
+EIP-2935 stores and serves last 8192 block hashes as storage slots of a system contract to allow for stateless execution
+
+## What's EIP-2935? 📦
+
+### The Problem
+- Ethereum needs to remember recent block history
+- Right now, each node has to store this info themselves
+- This makes things heavy and complicated
+
+### The Solution
+- Create a special contract that stores the last 8,191 block hashes
+- Like having a shared history book everyone can read from
+- Instead of everyone keeping their own copy
+
+### How It Works
+1. **Storage**
+   - Works like a circular notebook
+   - When new block comes, writes it down
+   - When notebook is full, starts over from beginning
+   - Keeps last ~8,191 blocks (about 1.5 days of history)
+
+### Benefits 🎯
+- Makes Ethereum lighter to run
+- Easier to check historical data
+- Helps with Layer 2 solutions
+- Makes everything more efficient
+
+Think of it like moving from everyone keeping their own diary to having one shared library that everyone can access! 📚
