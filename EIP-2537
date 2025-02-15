@@ -1,0 +1,4 @@
+# EIP-2537
+
+EIP-2537 adds operation on BLS12-381 curve as a precompile in a set necessary to efficiently perform operations such as BLS signature verification.
+
