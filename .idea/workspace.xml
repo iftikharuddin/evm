@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="557e80cb-a080-41bb-8cd1-f23399e24425" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/EIP-2537" beforeDir="false" afterPath="$PROJECT_DIR$/EIP-2537" afterDir="false" />
-    </list>
+    <list default="true" id="557e80cb-a080-41bb-8cd1-f23399e24425" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +26,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.PHP" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pectra" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -50,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1739558295405</updated>
-      <workItem from="1739558296801" duration="1520000" />
+      <workItem from="1739558296801" duration="1892000" />
     </task>
     <servers />
   </component>
