@@ -2,3 +2,28 @@
 
 EIP-2537 adds operation on BLS12-381 curve as a precompile in a set necessary to efficiently perform operations such as BLS signature verification.
 
+
+# What's EIP-2537 in simple words? 🔐
+
+### The Basics
+It's like adding a new math calculator to Ethereum that's really good at complex cryptography stuff!
+
+### Why We Need It
+- Current crypto tools in Ethereum aren't secure enough
+- Need better tools for privacy features and signatures
+- Like upgrading from a regular lock to a super-strong vault
+
+### What It Does
+Adds new special tools that help with:
+1. Better security (like having a stronger password)
+2. Faster privacy features
+3. More efficient signature checking
+4. Cheaper to use these features
+
+### Benefits 🎯
+- Makes privacy stuff work better
+- Saves money on gas fees
+- Makes everything more secure
+- Helps Ethereum stay up-to-date with modern security
+
+Think of it like upgrading your phone's security from a simple PIN to face recognition - it's more secure and works faster! 🚀
