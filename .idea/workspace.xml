@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="557e80cb-a080-41bb-8cd1-f23399e24425" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pectra/EIP-7002.md" beforeDir="false" afterPath="$PROJECT_DIR$/pectra/EIP-7002.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1739558295405</updated>
-      <workItem from="1739558296801" duration="2357000" />
+      <workItem from="1739558296801" duration="2624000" />
     </task>
     <servers />
   </component>
