@@ -1,4 +1,3 @@
-
 # What's a Dapp? 🤔
 
 A dapp (decentralized application) is basically like a regular app (think Facebook or Instagram), but with a key difference: instead of running on regular servers owned by a company, it runs on a decentralized network like Ethereum. Think of it as an app that no single person or company controls.
