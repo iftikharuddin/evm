@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="557e80cb-a080-41bb-8cd1-f23399e24425" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/ethereum.org/dapps.md" beforeDir="false" afterPath="$PROJECT_DIR$/ethereum.org/dapps.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ethereum.org/accounts.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1739558295405</updated>
       <workItem from="1739558296801" duration="4683000" />
-      <workItem from="1739802764147" duration="2008000" />
+      <workItem from="1739802764147" duration="2245000" />
     </task>
     <servers />
   </component>
