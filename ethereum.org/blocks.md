@@ -19,3 +19,9 @@ Think of a block like a container full of transactions that happens every 12 sec
 The cool thing about this system is that once a block is added to the chain, it's extremely difficult to change it because you'd have to change all the blocks that came after it too. This makes Ethereum very secure and reliable.
 
 Think of it like adding pages to a book - once you write a page and add more pages after it, it becomes very obvious if someone tries to change an earlier page because all the page numbers and references would be wrong!
+
+#### Note:
+
+Even though transaction requests occur dozens of times per second, blocks are only created and committed on Ethereum once every twelve seconds.
+
+
